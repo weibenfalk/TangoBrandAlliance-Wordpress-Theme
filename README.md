@@ -1,3 +1,10 @@
 
-This is a Wordpress Theme I did for Tango Brand Alliance in 2018. 
-It is built from scratch with Underscores as base.
+Tango Brand Alliance - Wordpress Theme
+--------------------------------------
+
+See it live here: http://www.tangobrandalliance.se
+
+A custom made Wordpress Theme including for example: 
+
+- Custom Start page
+- Custom Archive and pages for the trend publications
